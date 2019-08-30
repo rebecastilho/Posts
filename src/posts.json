@@ -1,0 +1,21 @@
+{
+    "posts" :[
+        {
+            "id" : 1,
+            "url" :"https://fotografiamais.com.br/wp-content/uploads/2018/08/fotos-de-paisagens-dicas.jpg",
+            "titulo" : "Foto 1"
+        },
+        
+        {
+            "id" : 2,
+            "url" :"https://www.ocasaldafoto.com/wp-content/uploads/2018/09/Foto-de-Paisagem-Lago-da-Pampulha-Belo-Horizonte-Charles-Torres.jpg",
+            "titulo" : "Foto 2"
+        },
+        
+        {
+            "id" : 3,
+            "url" :"https://ogimg.infoglobo.com.br/in/23534380-212-7b3/FT1086A/652/xOGLOBO_MINDUIM00021.jpg.pagespeed.ic.1zlzaP0-FB.jpg",
+            "titulo" : "Foto 3"
+        }  
+    ]
+}
